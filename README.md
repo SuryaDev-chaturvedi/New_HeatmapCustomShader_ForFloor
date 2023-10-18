@@ -1,3 +1,3 @@
 # UnityHeatmapShader
-A unity project which creates a shader to generate heatmaps on textures from collisions
-Code to go with video tutorial see https://youtu.be/Ah2rHGtOSbs
+This Heatmap works for all builds in Unity.
+Here is the sample view of heatmap generation:
